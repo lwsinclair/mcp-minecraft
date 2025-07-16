@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/arjunkmrm-mcp-minecraft-badge.png)](https://mseep.ai/app/arjunkmrm-mcp-minecraft)
+
 # Minecraft MCP Integration
 
 A Model Context Protocol (MCP) integration for Minecraft that enables AI assistants to interact with a Minecraft server. This integration allows AI models to observe and interact with the Minecraft world through a bot.
